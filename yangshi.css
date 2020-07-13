@@ -1,0 +1,73 @@
+body{
+	background-image:url(./background.jpg);
+	background-color:#000000;
+}
+
+.yincang{
+	opacity:0;/*不透明度（显示度）*/
+}
+
+.youxiang{
+	opacity:0.2;
+	text-shadow:0px 0px 30px #FFFFFF;
+}
+
+.xianzaishi{
+	font-size:35px;
+	color:#99FFFF;
+	text-shadow:0px 0px 30px #00CCFF;
+	font-family:"等线";
+}
+
+.xianzai{
+	font-size:50px;
+	font-family:MS Gothic;
+	color:#FFFFFF;
+	text-shadow:0px 0px 20px #000000;
+}
+
+.xianzainry{
+	font-size:20px;
+	color:#99CCFF;
+	text-shadow:0px 0px 10px #000000;
+}
+
+.juli{
+	font-size:80px;
+	font-family:"等线";
+	color:#99FFFF;
+	text-shadow:0px 0px 10px #00CCFF;
+}
+
+.gaokaonian{
+	font-size:100px;
+	font-family:"Georgia";
+	color:#FFFFFF;
+	text-shadow:0px 0px 10px #000000;
+}
+
+.dh{
+	font-size:150px;
+	font-family:"等线";
+	color:#99FFFF;
+	text-shadow:0px 0px 10px #000000;
+}
+
+.mins{
+	font-size:40px;
+	font-family:"等线";
+	color:#99FFFF;
+	text-shadow:0px 0px 10px #000000;
+}
+
+.shengyudh{
+	font-size:225px;
+	font-family:"黑体";
+	color:#FFFFFF;
+}
+
+.shengyumins{
+	font-size:50px;
+	font-family:"黑体";
+	color:#FFFFFF;
+}
